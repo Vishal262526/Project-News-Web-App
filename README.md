@@ -1,9 +1,11 @@
+# Project-News-Web-App
+This is a news web app bassed on content management system. 
+
 # Note
 This project is in the developmenet so you can face some issues
 
 
-# News-Web-App
-This is a news web app bassed on content management system. 
+
 
 
 # Installation
