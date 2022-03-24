@@ -57,3 +57,11 @@ This project is in the developmenet so you can face some issues
 * See all category (Admin)
 * Change website settings by settings tab like website name, website logo, website footer description (admin)
 * Normal user cannot see category, users, settings
+
+# Technologies Used
+* HTML
+* CSS 
+* Javascript
+* Bootstrap
+* PHP
+* MYSQL
